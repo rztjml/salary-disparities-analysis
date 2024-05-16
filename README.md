@@ -1,4 +1,4 @@
-# Salary Comparison Analysis
+# Salary Disparity Analysis
 
 In this analysis, I explore the differences in average salaries based on gender and education levels using statistical methods.
 
